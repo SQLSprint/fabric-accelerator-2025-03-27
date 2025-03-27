@@ -47,7 +47,7 @@
             },
             "schema": [],
             "externalReferences": {
-              "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+              "connection": "fa7fba01-6cdc-4e3a-a48b-b349e703f783"
             },
             "annotations": []
           },
@@ -260,7 +260,7 @@
       },
       "GoldWorkspaceID": {
         "type": "string",
-        "defaultValue": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec"
+        "defaultValue": "255d0428-51f6-45b2-8bed-fc5d6dc27477"
       },
       "GoldDWEndpoint": {
         "type": "string",
